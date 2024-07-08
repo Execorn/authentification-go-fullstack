@@ -1,0 +1,27 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 5.8rem;
+}.space-ort {
+  width: 100%;
+  height: 3.5rem;
+  white-space: nowrap;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.59;
+  color: #ffffff;
+  font-family: Mina, 'Source Sans Pro';
+}

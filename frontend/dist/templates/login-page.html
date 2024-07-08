@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Login Page</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500"/>
+  <link rel="stylesheet" href="../assets/css/login-page.css"/>
+</head>
+<body>
+
+<form method="post" action="/login">
+
+<div class="login-page-eKe">
+  {{ template "messages.html" . }}
+  <div class="headline-NWY">
+    <p class="welcome-back-7DE">Welcome back</p>
+    <p class="welcome-back-please-enter-your-details-o64">Welcome back! Please enter your details.</p>
+  </div>
+  <div class="auto-group-pgnq-6L4">
+    <div class="auto-group-kxjl-3m6">
+      <div class="email-form-bGp">
+        <p class="email-XgG">Login</p>
+        <input type="text" name="email" class="auto-group-gryn-T48" placeholder="Enter login or email" />
+
+      </div>
+      <div class="auto-group-so9n-ywa">
+        <div class="password-form-sGG">
+          <p class="password-yq6">Password</p>
+          <input type="password" name="password" class="auto-group-x9me-uCx" placeholder="Enter your password" />
+
+        </div>
+        <div class="auto-group-xeck-9NC">
+          <div class="remember-me-U9a">
+            <div class="rectangle-4-oxY">
+            </div>
+            <p class="remember-me-v1a">Remember me</p>
+          </div>
+          <p class="forgot-password-q8Y">Forgot password</p>
+        </div>
+        
+        <button type="submit" class="sign-in-button-Yoe">Sign in</button>
+
+        <div class="auto-group-hwcx-Nng">
+          <div class="sign-in-button-google-6Tn">
+            <img class="group-3-p8t" src="../assets/images/group-3.png"/>
+            <p class="google-M8p">Google</p>
+          </div>
+          <div class="sign-in-button-facebook-R8g">
+            <div class="group-5-9Ka">
+              <img class="group-4-uJk" src="../assets/images/group-4.png"/>
+              <p class="facebook-Ebv">Facebook</p>
+            </div>
+          </div>
+        </div>
+        <p class="dont-have-an-account-sign-up-fo-free-JLt">
+          <span class="dont-have-an-account-sign-up-fo-free-JLt-sub-0">Don’t have an account?</span>
+          <span class="dont-have-an-account-sign-up-fo-free-JLt-sub-1"> </span>
+          <span class="dont-have-an-account-sign-up-fo-free-JLt-sub-2"><a href="/register">Sign up fo free!</a></span>
+        </p>
+      </div>
+    </div>
+    <img class="image-1-t68" src="../assets/images/image-1-3bS.png"/>
+  </div>
+</div>
+</form>
+</body>

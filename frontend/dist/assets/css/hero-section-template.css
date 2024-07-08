@@ -1,0 +1,214 @@
+
+html {
+	font-size:62.5%;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.hero-section-template-Dme {
+  box-sizing: border-box;
+  padding: 4.3rem 3.4rem 12.8rem 3.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #3b3b3b;
+}
+.hero-section-template-Dme .auto-group-3slk-L5a {
+  margin: 0rem 6.6rem 9.9rem 0rem;
+  width: calc(100% - 6.6rem);
+  height: 10.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-3slk-L5a .image-4-2yz {
+  margin-right: 148.1rem;
+  width: 13.4rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-3slk-L5a .sign-up-button-ZDE {
+  margin: 2rem 0rem 2.1rem 0rem;
+  width: 17.1rem;
+  height: calc(100% - 4.1rem);
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.59;
+  color: #3b3b3b;
+  font-family: Mina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b4eff3;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 {
+  margin: 0rem 5.4rem 0rem 11.6rem;
+  width: calc(100% - 17rem);
+  height: 66.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL {
+  margin: 4.4rem 1.05rem 0rem 0rem;
+  width: 67.95rem;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL .full-text-FVN {
+  margin: 0rem 0rem 6.3rem 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL .full-text-FVN .everything-about-customizing-linux-here-nVJ {
+  margin: 0rem 0rem 2.6rem 0.75rem;
+  max-width: 66.4rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.1625;
+  color: #ffffff;
+  font-family: Mina, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL .full-text-FVN .public-and-see-your-rices-hardware-setups-thoughts-about-everything-connected-with-linux-4xc {
+  max-width: 65.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.59;
+  color: #ffffff;
+  font-family: Mina, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL .call-to-action-buttons-kqS {
+  margin-right: 27.15rem;
+  width: calc(100% - 27.15rem);
+  height: 6.8rem;
+  display: flex;
+  align-items: center;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL .call-to-action-buttons-kqS .call-to-action-button-gj6 {
+  margin-right: 3.5rem;
+  width: 17.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.59;
+  color: #3b3b3b;
+  font-family: Mina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b4eff3;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-stwk-ikL .call-to-action-buttons-kqS .secondary-button-yTJ {
+  width: 20.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.59;
+  color: #b4eff3;
+  font-family: Mina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem #b4eff3;
+  box-sizing: border-box;
+  background-color: #3b3b3b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-hwzp-3xx {
+  width: 99.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-hwzp-3xx .image-1-CL4 {
+  width: 61.5rem;
+  height: 34.6rem;
+  position: absolute;
+  left: 0;
+  top: 32.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-hwzp-3xx .image-3-LBN {
+  width: 61.5rem;
+  height: 34.5746rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 14.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-section-template-Dme .auto-group-nypn-1L8 .auto-group-hwzp-3xx .image-5-4t4 {
+  width: 61.5rem;
+  height: 34.5769rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-section-template-Dme .category-title-1-QS8 {
+  margin-left: 11.8rem;
+  opacity: 0.4;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .category-title-1-QS8 .facebook-jUQ {
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .category-title-1-QS8 .instagram-52U {
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .category-title-1-QS8 .twitter-RME {
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-section-template-Dme .category-title-1-QS8 .pinterest-yNk {
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Sign-up Page</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500"/>
+  <link rel="stylesheet" href="../assets/css/sign-up-page.css"/>
+</head>
+<body>
+<form method="post" action="/register">
+
+<div class="sign-up-page-ZUQ">
+  {{ template "messages.html" . }}
+  <div class="headline-HQQ">
+    <p class="register-now-CnG">Register now</p>
+    <p class="lets-get-connected-tuz">Let&#39;s get connected</p>
+  </div>
+    <div class="email-form-on4">
+    <p class="email-jQp">Email</p>
+    <input name="email" type="email" class="auto-group-mzxq-3gQ" id="floatingInput" placeholder="email">
+  </div>
+
+
+  <div class="auto-group-hgzr-rtk">
+    <div class="auto-group-gpja-cd2">
+      <div class="password-form-Bxx">
+        <p class="password-7Lp">Password</p>
+        <input type="password" name="password" class="auto-group-egtn-e5r" id="floatingPassword" placeholder="Enter your password" />
+      </div>
+
+      <button type="submit" class="sign-in-button-zax">Sign up</button>
+
+      <p class="already-have-an-account-sign-in-pK6">
+        <span class="already-have-an-account-sign-in-pK6-sub-0">Already  have an account!!</span>
+        <span class="already-have-an-account-sign-in-pK6-sub-1"> </span>
+        <span class="already-have-an-account-sign-in-pK6-sub-2"><a href="/login">Sign up</a></span>
+
+      </p>
+    </div>
+    <img class="image-2-qNc" src="../assets/images/image-2-moi.png"/>
+  </div>
+</div>
+</form>
+</body>

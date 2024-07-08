@@ -1,0 +1,284 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 108rem;
+}.sign-up-page-ZUQ {
+  box-sizing: border-box;
+  padding: 7.8rem 0rem 0rem 12.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.sign-up-page-ZUQ .headline-HQQ {
+  margin: 0rem 67rem 2.73rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .headline-HQQ .register-now-CnG {
+  margin-bottom: 0.2705rem;
+  text-align: center;
+  font-size: 3.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.102rem;
+  text-transform: uppercase;
+  color: rgba(234, 69, 76, 0.8199999928);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .headline-HQQ .lets-get-connected-tuz {
+  margin-right: 0.1033rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #626263;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .email-form-on4 {
+  margin-bottom: 1.4803rem;
+  box-sizing: border-box;
+  padding: 0rem 0rem 0rem 0.067rem;
+  width: 31.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .email-form-on4 .email-jQp {
+  margin-bottom: 0.6885rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #d9d9d9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-page-ZUQ .email-form-on4 .auto-group-mzxq-3gQ {
+  margin-left: 0.0361rem;
+  box-sizing: border-box;
+  padding: 1.136rem 1.516rem 0.895rem 1.516rem;
+  width: calc(100% - 0.0361rem);
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #626263;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.2rem;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 {
+  margin-right: 0rem;
+  width: 31.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .phone-no-form-xB6 {
+  margin: 0rem 0.003rem 1.48rem 0rem;
+  box-sizing: border-box;
+  padding-bottom: 0rem;
+  width: calc(100% - 0.0033rem);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .phone-no-form-xB6 .auto-group-vjre-Gha {
+  margin: 0rem 0rem 0.689rem 0.4rem;
+  width: 5.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #d9d9d9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .phone-no-form-xB6 .auto-group-dgbn-kck {
+  box-sizing: border-box;
+  padding: 1.136rem 1.616rem 0.895rem 1.616rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #626263;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .password-form-Bxx {
+  margin: 0rem 0.003rem 1.28rem 0rem;
+  box-sizing: border-box;
+  padding-bottom: 0rem;
+  width: calc(100% - 0.0033rem);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .password-form-Bxx .password-7Lp {
+  margin-bottom: 0.6885rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #d9d9d9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .password-form-Bxx .auto-group-egtn-e5r {
+  box-sizing: border-box;
+  padding: 1.136rem 1.616rem 0.895rem 1.616rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #626263;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .conrifm-password-form-VMN {
+  margin: 0rem 0.003rem 2.61rem 0rem;
+  width: calc(100% - 0.0033rem);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .conrifm-password-form-VMN .confirm-password-QjE {
+  margin-bottom: 0.6885rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #d9d9d9;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .conrifm-password-form-VMN .auto-group-tqeg-jmW {
+  box-sizing: border-box;
+  padding: 1.136rem 1.616rem 0.895rem 1.616rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #626263;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .sign-in-button-zax {
+  margin: 0rem 0rem 1.343rem 0.003rem;
+  width: calc(100% - 0.0033rem);
+  height: 4.1311rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.042rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 1rem rgba(233, 68, 75, 0.25);
+  background-color: #ea454c;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .already-have-an-account-sign-in-pK6 {
+  margin-left: 0.0935rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .already-have-an-account-sign-in-pK6 .already-have-an-account-sign-in-pK6-sub-0 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.03rem;
+  color: #595959;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .already-have-an-account-sign-in-pK6 .already-have-an-account-sign-in-pK6-sub-1 {
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .auto-group-gpja-cd2 .already-have-an-account-sign-in-pK6 .already-have-an-account-sign-in-pK6-sub-2 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.03rem;
+  color: #ea454c;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.sign-up-page-ZUQ .auto-group-hgzr-rtk .image-2-qNc {
+  margin-top: 0.9rem;
+  width: 66.9rem;
+  height: 37.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
